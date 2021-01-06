@@ -1,0 +1,36 @@
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\We Split.exe.config
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\We Split.exe
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\We Split.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\MaterialDesignColors.dll
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\MaterialDesignColors.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split.csprojAssemblyReference.cache
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\Add.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\Detail.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\MainWindow.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\SplashScreen.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\App.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split_MarkupCompile.cache
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split_MarkupCompile.lref
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\App.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\Add.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\Detail.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\MainWindow.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\SplashScreen.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split.g.resources
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We_Split.Properties.Resources.resources
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split.csproj.GenerateResource.cache
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split.csproj.CoreCompileInputs.cache
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split.csproj.CopyComplete
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split.exe
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\We Split.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\LiveCharts.dll
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\LiveCharts.Wpf.dll
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\LiveCharts.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\LiveCharts.xml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\LiveCharts.Wpf.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Release\LiveCharts.Wpf.xml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\Infor.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Release\Infor.baml

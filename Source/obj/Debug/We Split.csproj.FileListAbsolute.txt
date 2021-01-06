@@ -1,0 +1,36 @@
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\We Split.exe.config
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\We Split.exe
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\We Split.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\LiveCharts.dll
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\LiveCharts.Wpf.dll
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\MaterialDesignColors.dll
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\LiveCharts.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\LiveCharts.xml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\LiveCharts.Wpf.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\LiveCharts.Wpf.xml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\MaterialDesignColors.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split.csprojAssemblyReference.cache
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\Add.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\Detail.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\Infor.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\MainWindow.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\SplashScreen.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\App.g.cs
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split_MarkupCompile.cache
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split_MarkupCompile.lref
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\App.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\Add.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\Detail.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\Infor.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\MainWindow.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\SplashScreen.baml
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split.g.resources
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We_Split.Properties.Resources.resources
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split.csproj.GenerateResource.cache
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split.csproj.CoreCompileInputs.cache
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split.csproj.CopyComplete
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split.exe
+D:\Study\University\3 - Third year\Windows programming\Project\Project 2\We Split\obj\Debug\We Split.pdb

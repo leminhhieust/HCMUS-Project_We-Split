@@ -1,0 +1,20 @@
+﻿<Window x:Class="We_Split.Infor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:We_Split"
+        mc:Ignorable="d"
+        Title="Infor" Height="180" Width="400" WindowStartupLocation="CenterScreen" WindowStyle="None"
+        AllowsTransparency="True" ResizeMode="NoResize" Background="Transparent">
+    <Border CornerRadius="55" BorderBrush="Blue" BorderThickness="3" Background="#96d3f2">
+        <Grid>
+            <TextBlock HorizontalAlignment="Left" Margin="119,42,0,0" TextWrapping="Wrap" Text="PROJECT 2 - WE SPLIT" VerticalAlignment="Top" TextAlignment="Center" FontWeight="Bold" FontSize="15" Foreground="Blue"/>
+            <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="HCMUS-WINDOWS PROGRAMMING" VerticalAlignment="Top" Width="374" FontWeight="Bold" FontSize="20" TextAlignment="Center" Foreground="Red"/>
+            <TextBlock HorizontalAlignment="Left" Margin="151,67,0,0" TextWrapping="Wrap" Text="Class: 18_31" VerticalAlignment="Top" TextAlignment="Center" FontWeight="Bold" FontSize="15" Foreground="Blue"/>
+            <TextBlock HorizontalAlignment="Left" Margin="10,104,0,0" TextWrapping="Wrap" Text="Lê Minh Hiếu - 18120372 - leminhhieust@gmail.com" VerticalAlignment="Top" TextAlignment="Center" FontWeight="Bold" FontSize="15" Foreground="Green" Width="374"/>
+            <Button Content="Back" HorizontalAlignment="Left" Margin="170,139,0,0" VerticalAlignment="Top" Width="65" Height="25" Click="Button_Click"/>
+
+        </Grid>
+    </Border>
+</Window>
